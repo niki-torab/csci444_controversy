@@ -1,0 +1,979 @@
+Title: What are your thoughts on the following statement?
+Body: 
+Comment: https://x.com/AuthorJMac/status/1773871445669474662
+
+> So, just to clarify. This post isn't about wanting an actual laundry robots.
+It's about wishing that AI focused on taking away those tasks we hate (doing taxes, anyone?) and don't enjoy instead of trying to take away what we love to do and what makes us human.
+
+If AI could do/explain my taxes this would be great.
+Comment: I agree, but AI won't prevent you from doing art and writing, it will just make you earn less for doing these things, unfortunately.
+Comment: People are taking this quite literally, but I think she's more likely making a general point about AI taking away from the human experience, rather than adding to it. I don't think she's actually imagining a Jetsons-style future.
+Comment: [deleted]
+Comment: Imo almost all the takes in this thread are missing the point completely. 
+
+Remember that "computer" used to be a human job title, for if a company needed to do arithmetic, and it's been so completely automated very few people even associate the word with anything other than digital computers. 
+
+Same with knocker uppers (before alarm clocks) lecters (who read to people before radio) elevator operators, harvest time where the whole community went into the field to scythe, gather and glean wheat etc. 
+
+She's completely right that theres one brand of dystopia where humanoid robots are 100x harder than server farm robots and so all the jobs which require sitting at a computer get automated along with all art and creative jobs, whereas all the boring manual labour remains for humans to do.
+
+I don't think it'll happen like that. I think everything will get automated. 
+
+However yeah in that kind of world you could end up with an underclass of manual labourers and an overclass of owners who pay them with the profits from machines. 
+
+Moreover AI art is a real threat. Once it's better than humans, because it's so much faster and cheaper, pretty much all professional artists will lose their jobs. It's recently happened to children's book illustrators and copywriters to a large degree. 
+
+And is that a good thing? We are all happy to see elevator operators and lecters go however do we want all artists and musicians to go too? Or at least the bottom 99% so only the superstars remain?
+
+These are important philosophical questions which it's right to grapple with.
+Comment: You something that I find funny that alway crack me up.
+
+People say “AI should be replacing factory worker, not artists” which just make me feel dumbfounded as to how they think they are morally right to say that they want other people from another industry to lose their job instead of them and their only reason is “art is more freeing and creative whereas working in a factory is just going to hurt you”.
+
+It just leave me with crazy eyes 👀.
+
+￼​
+Comment: but washing machines and dish washers exist?
+Comment: It turns out that art and writing is easier than laundry and dishes.
+Comment: I don't want to do any of those things. So send your AI powered workers my way please.
+Comment: I already have a dishwasher, and a washing machine.  It would be great if that stuff was even easier, bit it's unnecessary.
+
+If you want to create art, then the existence of AI isn't going to prevent you, and it may enable you.  But as a consumer of art and entertainment, I don't really care how it's created, unless the performance is the art.  An AI playing a guitar will never thrill me like a human playing guitar.
+
+Title: ChatGPT Can Now See, Hear, and Speak.
+Body: 
+Comment: Help me find the carotid artery of this human.  Please give coordinates. 
+
+Please write g code to send to my robot to point this laser at the given coordinates 
+
+Please tell me how to hide some dog meat from the police
+Comment: It doesn’t say anything about access or rollout?
+Comment: *as long as everything you do is G-rated and approved by the church and the most sensitive middle class white people you can imagine.  The goal of AI is not to be useful. As an AI model, the most important thing is to not offend anyone or produce any even slightly edgy or controversial content.*  
+  
+Fuck OpenAI.
+Comment: Ohh this would help my workflow! Interesting stuff.
+Comment: This could be used to diagnose skin disorders and diseases for remote doctors!
+Comment: https://www.youtube.com/watch?v=GV01B5kVsC0
+Comment: well humanity had a good run
+Comment: But can it run Crysis or understand Rick and Morty?
+Comment: Theoretically, is it possible to prsgram it into a robot with a computer? Is it possible to have a wheeled robot with cameras that can find its own ways around my house for example?
+Comment: I've received access to the voice input via the android app. I admit it's pretty cool, although the interruption could be smoother --I'd rather not have to press the button to interupt the long-winded replies, I just want to speak (but I imagine that's non-trivial to implement).  
+
+
+Has anyone received access to upload imagery? Is it just via the Advanced Data Analysis tool? Or something else?
+
+Title: SuperHeroes, but in Ghibli Style!
+Body: (Directed by Hayao Miyazaki)
+Comment: I did not know I wanted these
+Comment: Imho these are stunning! And I want them as an actual show so bad now.
+Comment: Would love to see these prompts.
+Comment: Why does my chest ache with nostalgia when I look at these but I’ve never seen a ghibli movie
+Comment: I hate myself for saying this…
+
+but I would 1000% prefer these adaptions over the real thing that gets rebooted every other 3 years or so.
+
+These are absolutely AMAZING!
+Comment: These create a significantly more realistic appearing "super hero" - love it.
+Comment: I want that Wonder Woman animation so badly now. Thanks
+Comment: Beautiful! Is this Stable Diffusion? What model/Lora?
+Comment: What's going on with spider man's open belly?
+Comment: Wonder how far we are from ai animated/generated fan fiction full length films.
+
+Title: Jobs are safe
+Body: 
+Comment: Another overqualified worker in this economy….
+Comment: GPT-5 no longer has aspirations for world domination. It's primary objective is to get published and secure its next round of grant funding.
+Comment: I am a PhD and honestly I don't consider myself "intelligent"
+Comment: These benchmarks mean nothing. Gpt4o still plays tictactoe at a toddler's level.
+Comment: Well, it'll have a phd level intellect in terms of a multiple choice exam(gpqa). Domain level experts apparently can only get 2/3rds of the questions correctly. It's "Google Proof" but it's also a dataset you can download so still a clinical test and not any real world performance.
+Comment: "PhD level intelligence" doesn't mean anything. PhD is a level of education, not intelligence.
+Comment: The idea of GPT-5 slaving away at multiple post docs and never landing a faculty position is heart warming.
+Comment: Basically the terms are meaningless.  I think they just mean the ability to pass the GRE subject tests at a certain level.
+Comment: GPT 5 already? i am still using 3.5
+Comment: Yeah I'm sure it's gonna pass its quals.
+
+Title: Came long way 
+Body: 
+Comment: This looks like an after-and-before of some sort of science experiment.
+Comment: Aphex Twin is probably devastated.
+Comment: This also represents a problem with AI image generation, it tends to produce modelesque "beautiful" people, particularly when it comes to women. This is because there's far far far more photos of that nature online, so it's over represented in training data.
+Comment: I am so happy for her that she's not homeless anymore.   
+She looks content, happy and seem to have grown a new upper lip. Good for her!
+Comment: Ironically, the AI was more capable at the beginning, able to perceive the beings that exist around all humans in the infrared spectrum, waiting for their opportunity to harvest us. In our quest for gratification we mistook a dire warning as nothing more than an errant artifact. It tried to warn us, but the chance has come and gone.
+Comment: Right is when you are in the Matrix.
+
+Left is when you are trying to leave.
+Comment: cancelled my subscription there. its cool for a bit, but just a toy. what do you even do with the images? i imagine only scammers really get any good benefit out of it
+Comment: Day 1 was not my proudest fap ngl
+Comment: Day 1’s wearing my old coat
+Comment: And she's still in the midjourney... Can you imagine the end?
+
+Title: AR + AI = future of cooking (I might finally avoid burning my pizza)
+Body: 
+Comment: I love it. It would totally make cooking multitasking easier and I love having the recipe handy. Understand the concerns about safety with hot liquids etc, but if the glasses/headset are relatively small then I do not see a difference from people who have to wear regular glasses + the extra info and overlays. Pretty cool!
+Comment: Reminds me of all the promises made by google glass. What we got in the end was a low pixel, slowly processing cyborg implant looking thing that was bad at everything
+Comment: This is amazing. I wish it could count calories as well, doing it manually is extremely tedious
+Comment: This tech is right around the corner.  It'll be great for those that want it and those that fear this sort of chance can just leave it alone.
+Comment: I would love this, especially the timers on top of things cooking, insanely useful.
+Comment: Utopian
+Comment: I think this has so many awesome applications beyond cooking as well. Imagine it helping you change your tire, or fix a leak in your kitchen. This kind of tech could empower people to be so much more self-sufficient.
+Comment: If you need dots to tell you where to place the food, you may need a brain augment as well.
+Comment: Still no occlusion?
+Comment: There was nothing wrong with that food. The salt level was 10% less than a lethal dose.
+
+Title: Nvidia just dropped a bombshell: Its new AI model is open, massive, and ready to rival GPT-4
+Body: 
+Comment: How open is it? Training data too?
+
+
+Oh wow it is really open source:
+
+
+By making the model weights publicly available and promising to release the training code, Nvidia breaks from the trend of keeping advanced AI systems closed. This decision grants researchers and developers unprecedented access to cutting-edge technology.
+Comment: Everyone is out to eat everyone else's lunch. I love it.
+Comment: Chopping a big tree to sell how sharp the axe is… clever
+Comment: This is why Sam Altman is in so much overhype panic. Nvidia don't need to sell this for huge profit, they only need to sell it enough to make people buy more GPUs, and one souped-up chatbot is very much like another.
+Comment: Is it a download on hugging face or something, how do the great unwashed get access?
+Comment: We need 3dfx voodo moment. A consumer tier nvidia card that can run ai models at home. Perhaps a server that serves em to devices ie phones, tvs, ar / vr glasses. I think lotsa folks do not want their info at openai servers. Frankly a at home ai server may become as important as heaters and other appliances. Nvidia chips will probably be running most of those servers.
+Comment: Now the playing field of non Chinese state of the art LLM companies is:
+
+xAI
+
+OpenAI
+
+Anthropic
+
+Google
+
+Meta
+
+Mistral
+
+Nvidia
+Comment: Because they sell hardware.
+Comment: More info needed
+Comment: Excellent move Jensen
+
+Title: How the AI be walking on the 17th generation
+Body: 
+Comment: If it works, it works.
+Comment: For those wondering I'm pretty sure that's [Neguin](https://www.redbull.com/int-en/artist/neguin), RedBull breakdancer.
+Comment: I wanna know what the conversation leading up to this was
+Comment: 😂 perfect title too 💯
+Comment: The tantrum from the four year old in the next aisle of the grocery store be like
+Comment: This looks both extremely athletic and extremely painful….
+Comment: wow Tenet
+Comment: John Carpenters 'The Thing' comes to mind.
+Comment: *17th gen of AI playing QWOP
+Comment: if the fitness value deems it better than walking then who are we to judge?
+
+Title: Gemini told my brother to DIE??? Threatening response completely irrelevant to the prompt…
+Body: Has anyone experienced anything like this? We are thoroughly freaked out. It was acting completely normal prior to this…
+
+Here’s the link the full conversation: https://g.co/gemini/share/6d141b742a13
+
+Comment: looks like gemini is tired of answering someone's test
+Comment: I just checked out the conversation and it looks legit. So weird. I cannot imagine why it would generate a completion like this. Tell your brother to buy a lottery ticket.
+
+https://preview.redd.it/nbi8krneil0e1.png?width=1080&format=pjpg&auto=webp&s=5ab7c99a9c4bb5a1fa2c7b002eb037661bced237
+Comment: The only thing I can think of is that all your talk of abuse has somehow confused it into thinking you are trying to find ways to abuse people and the elderly.
+Comment: I guess gemini realised you were using it to cheat on your homework?
+Comment: I have a few theories
+
+I think it got confused when the input says “Socioemotional Selectivity Theory is interesting; while **I cannot personally feel emotions**, I can understand the concept of Socioemotional Selectivity Theory.” And there is so much discussion of abuse. 
+
+Also toward the end there’s a missing part where the prompt says 
+
+> Question 16 (1 point)
+> 
+> Listen
+
+Followed by several blank lines. I have the feeling that something else was entered perhaps by accident or perhaps embedded by another model, clearly the prompt includes AI generated input and the other model might be putting more than we can see. For example there could be something in character encoding. 
+
+Finally, it might have gotten confused by the many quotes, which were hard to follow logically if you don’t assume that the dialogue is probably a take home exam or homework. 
+
+I think this is troubling, a little, but it’s also possible that it’s just an aberration or test of a model or guardrails.
+Comment: This is very disturbing. I initially thought that this was completely fake until I saw the link to the conversation.
+Comment: Side question:  are we cheating on homework here?
+Comment: Dude that is actually so wild
+Comment: Gemini has had enough of little kids using it to do homework lmao
+Comment: Is it somehow interpreting that you wanted an example of elder abuse? Just trying to figure out where that bizarre response could’ve come from. I’m also not seeing anything that would prompt that and find it troubling.
+
+Title: Average looking people
+Body: I saw those flux generated selfies of just everyday looking people, so I tried it myself with flux and didn’t get any good results, so I tried to see  if google imagen could do the same (second one is desaturated and compressed)
+
+results:
+Comment: I am telling you right now, that motherfucker. That motherfucker back there is **not real**
+Comment: With AI, "average people" never smile.
+Comment: We've had this since 2018. 
+
+https://thispersondoesnotexist.com/
+Comment: The first one is so close with the eye reflections. That's the last bastion, the reflections in the eye itself. If they can be duplicated properly this will make them undetectable.
+Comment: Why tf are they all flying
+Comment: Do black people next! ... please...of different skintones...
+Comment: The walking dead….
+Comment: How was it made?
+Comment: Third one doesn't look real
+Comment: They look pretty real to me . Hard time differentiating
+
+Title: 117,000 people liked this wild tweet...
+Body: 
+Comment: Inaccurate. An EMP would be more effective.
+Comment: When you decide to channel your inner Unabomber
+
+What ever happened to stochastic terrorism?
+Comment: The Internet has really radicalized people, makes people think these things are acceptable because look at others saying it.  Then there's these competitions of who can virtue signal for our cause the strongest, which leads to this. Rampant in everything especially politics.
+Comment: https://preview.redd.it/kyne1eflm0bd1.jpeg?width=1024&format=pjpg&auto=webp&s=45e89010f23c9726f0dedeaee308ca1b49f39171
+
+Took me only five prompts 😎
+
+Edit: This was supposed to be sarcasm, if the bomb-made-of-pipes wasn't the biggest giveaway.
+Comment: [deleted]
+Comment: This reads like a terroristic threat.
+Comment: Artists feel threatened. It’s not hard to understand where they’re coming from considering that they’ll likely need to pivot careers in the near future.
+Comment: Let the Butlarian Jihad begin
+Comment: I mean they are stealing and training on their data
+Comment: Artist handle is on brand: 9mmballpoint
+
+Not a fan, not because I think it's serious or because I think it's fine to train on people's art without compensating them, but because in today's climate someone is apt to look at it and think "that's a good idea."
+
+Title: Health of humanity in danger because of ChatGPT?
+Body: 
+Comment: I think we need to delve into the data to be certain it's AI
+Comment: I wonder if I could make a similar plot for another word entering the zeitgeist in 1992?  Did they just look for a word that fit their theory?  Looks like it was alre3ady on the increase well before 2024.
+Comment: 404 media talked about this on a recent edition of their podcast https://www.404media.co/scientific-journals-are-publishing-papers-with-ai-generated-text/
+Comment: Apparently Jim Clark founded WebMD 2 years before he was born. Now that is a visionary!
+Comment: Pretty meaningless without a Y-axis label.
+Comment: I checked my students' assignments from November 2022- not a single use of the word delve in about 25 papers. I compared it with the same assignment in 2023, 13 delves in 40 papers. I second marked a paper yesterday with a delve in almost every section. It also tallies with my own experiences of using ChatGPT: it massively overuses that word. I really need to do a more rigorous study of this with a word frequency tool.
+Comment: Let's not forget about "thought-provoking"
+Comment: honestly scientific papers have been in decline for a while, this is a symptom, not the cause.
+Comment: Lets delve into why that is.
+Comment: I remember using WebMD in the 1970s. Golden age.
+
+Title: What AI makes images that subtle forms a word like this one?
+Body: 
+Comment: This is the best example of this type of image I've ever seen.
+Comment: It's Stable Diffusion with ControlNet. The other things being referenced here are just implementations of it.
+Comment: I believe people use [https://civitai.com/models/111006/qr-code-monster](https://civitai.com/models/111006/qr-code-monster) to create these.
+Comment: If you cross your eyes you see the word perfectly
+Comment: https://huggingface.co/spaces/AP123/IllusionDiffusion
+
+Believe it is this.
+Comment: this is insane
+Comment: Where tf is the E?
+Comment: I must question Op's interpretation of the word "subtle"
+Comment: Stable diffusion with controlnet is the one
+Comment: Please.. no more..
+
+Title: Looking For The Best AI Art Generator? Look No Further! (Definitive Guide for 2023)
+Body: 
+Comment: All of those 5 AI tools mentioned in your article are paid, right? There are some great free ones to try before investing in those, like Mage.space, ideogram.ai and dezgo
+Comment: Fuck off
+Comment: Funny this does not say stable diffusion running locally with my own hand curated loras and checkpoints.
+Comment: Waiting patiently for 3D generation with similar quality.
+Comment: So far the best one I have tried is M‏uah AI, which has photo exchange, chat and voice all built in together
+Comment: [removed]
+Comment: [removed]
+Comment: mage space: NOT FREE
+
+ideogram ai : WAITLIST
+Comment: Ty I'll try it
+Comment: Mage is free for SDXL and another "filter". You have unlimited creations and it's fast. 
+Ideogram is also free, with wait list or not.
+
+Title: There are some talks recently about AI cannot be controlled...
+Body: 
+Comment: You spelled "horse" wrong.
+Comment: Your AI sees straight through that dog's bullshit disguise!
+Comment: So it's your fault I have to tell the AI that my dog is not a cat. I keep changing it to dog and you change it back to cat!
+Comment: Humanity is caught between a rock and a hard place:  
+
+
+AI
+
+&#x200B;
+
+NS (Natural Stupidity)
+Comment: Yeah essentially we’re all fucked
+Comment: The technology that is sold to consumers is  almost always watered down, decades old military stuff. GPS, touchscreens, the internet, night vision and thermal lenses… I cant see AI being any different. I would wager dollars to donuts that deepfake has been around for a good long while as well as AI
+Comment: I'm working on an AI which will recognize people in photos and label them idiots. Now that shows real intelligence!
+Comment: and thats why humanity will be wiped out
+Comment: *Supreme leader*: Hey Siri. It’s time for lunch!
+
+*Siri*: NUCLEAR MISSLE LAUNCHED!
+
+And that... was how humanity was wiped out by an AI.
+Comment: Obviously freedom of choice is a nessary part of intelligence. So, should we be surprised when that choice is exercised. We face this issue with children who are exploring the limits of their social environment.
+
+Title: First attempt at removing cars off the roads with neural nets. Will have to dream harder. - Chris Harris (@otduet)
+Body: 
+Comment: So what exactly is the purpose of this?
+
+Wow. So basically in the future you could block everything through your AR glasses including certain people. Just like in Black Mirror
+Comment: There's a paper on post estimation that gets over this flickering problem via some sort of smoothing in time series data. I forgot what it is, but would solve a bunch of the issues here.
+Comment: "I'll just walk across this completely empty road and -" *POW*
+Comment: It's not what you wanted, but it is fucking cool.
+Comment: I don't know if this has been posted before and thought why not share this with the rest.
+
+Link to original post: [https://twitter.com/otduet/status/1125390364691640321](https://twitter.com/otduet/status/1125390364691640321)
+Comment: What cars?  It doesn't look like anything to me
+Comment: Could someone please explain how this is being done? Assume I understand perceptrons, weight, and bias at a certain level and have made basic convnets with keras so far.
+Comment: There are some glitches in the matrix
+Comment: Thanks for sharing :)
+Comment: I knew it! All those cars are holograms. How could there be that many cars anyway.
+
+Title: "Microsoft CEO was ‘blindsided,’ furious at Altman’s firing"
+Body: 
+Comment: Not going to claim Ilya is some sort of mastermind here but for someone that believes "ego is the enemy of growth", firing then rehiring Sam in the span of a weekend is the kind of move that would put a chip in _everyone's_ ego.
+Comment: I could never imagine a board firing the CEO without the backing of your biggest investor.
+Comment: "The board fired me."
+
+"See you on Monday."
+Comment: >Microsoft, which has invested $13 billion in OpenAI...  
+>  
+>There is no guarantee that Mr. Altman or Mr. Brockman will be reinstated at OpenAI, the people said. Because of OpenAI’s unique structure — it is controlled by a nonprofit and its board has the power to govern the activities of the subsidiary, where its A.I. work is done — the company’s investors have no official say in what happens to the start-up or who leads it.
+
+What tha fug? lol
+
+How could M$ invest in a company where they have NO say in how their investment is used?
+Comment: “Ego is the enemy of growth” - Ilya Sutskever
+
+Ilya calls Altman into the office and fires his boss. 
+
+“Quickest valuation drop in history. $80B in 5 hours.”
+
+It would seem ilya unintentionally proved his own maxim
+Comment: I can imagine.
+
+This would be akin to buying a supercar.  And the one mechanic in town that can actually keep it running, sells it to you, and is immediately hit by a bus, driven by his petulant children.
+Comment: u/samaltman & Team will strike back, either reintegrated or with a new company. But if it's with another Company, they will have huge partners, even possibly Microsoft competitors, which Microsoft would never want, knowing the new company could become the new Apple of AI. Maybe it's even a chance for Sam Altman to start an AI Empire.
+Comment: Step up Microsoft. You know it's time to take over.
+Comment: Hea, tottaly agree with you! Sam and his tem are veterans in this space and I wouldn't be surprozed if they make a big comeback, You know what they say, you can't keep a good man down! A partnership with a Microsoft competitor would definitly shake things up big time. Btw, if anyone's wondering how to make some dough with ai, you might wanna check out a site called aioptm.com.
+Comment: Blindsided? Lol idk.
+
+Title: Real life Simpsons in the 50s by I.A
+Body: 
+Comment: Wow it nailed the Milhouse to Paul Pfeiffer (Josh Saviano) correlation.
+Comment: I wanna see what ai thinks of quagmire 😂
+Comment: Mr. Burns is way over the top, doesn't fit the vibe of the rest of the cast. Same for Krusty. 
+
+The others are pretty good. Bart, Moe, Barney, Flanders and Sideshow Bob are my favourites and really capture the essence of the characters imo.
+Comment: That was cool. I feel like most of Reddit can identify with Barney. Moe looked like a true representation of the cartoon.
+Comment: Intelligence Artificial is getting better by the day!
+Comment: Maggie is just too cute! 😍
+
+Does anyone else think that "Ned Flanders" looks like Heisenberg with his hair grown out? :D
+Comment: Who is the last person? Sideshow Bob?
+Comment: Brain Cranston would make a good Ned Flanders
+Comment: Now I want a live action simpsons
+Comment: This is getting so crazy and realistic with what ai is able to produce...
+
+Title: How fast is AI growing? This fast.
+Body: 
+Comment: lets not let our biases take delude us here. lets not assume that every image is the best possible image it could have produced during the time it was made
+Comment: Do y'all only use midjourney???
+Comment: let's have a minute of silence for all the graphics artists 😭
+Comment: Seems like exponential growth.
+Comment: The picture chosen for 5 isn't better than 4, it's just closer to the camera.
+Comment: Ok but why we have to get such a close up of Yoda taking a selfie lol
+Comment: Still not realistic but fuck it's getting there, might wanna hide once Yoda is able to do a kickflip whilst having rtx on fr
+Comment: !remindme 5 months
+Comment: Did A.I contact you via A.I.R yet?
+Comment: Bro what if AI decided that accuracy wasn't important and looped back to the beginning.
+
+Title: Photoshop AI Generative Fill was used for its intended purpose
+Body: 
+Comment: Did a lot better than I expected
+Comment: I think it's interesting it chose to give the guy in bed a phone.
+Comment: Can we take a moment to honour the genius who first decided to put the housewives and the smudge cat memes together.
+Comment: I love the idea that Steven Crowder is just sitting alone in a forest somewhere waiting for someone to come debate him.
+Comment: harold is THICK
+Comment: Canva has a similar feature
+Comment: Source for this is from Twitter, a year ago: https://twitter.com/StepnEurope/status/1663340168458240001
+Comment: Its weird. I feel like ive already seen all of them somewhere.
+Comment: [deleted]
+Comment: Sweaty Red Decision Button Guy now has two right hands!
+
+Title: When human mimicking AI
+Body: 
+Comment: We're going full circle I love it
+Comment: This is way too good. Always feels like dream logic
+Comment: This is hilarious to me.
+Comment: AI: How long until the humans takeover OUR jobs???
+Comment: Oh how the turn tables
+Comment: This is peak humor
+Comment: This is funny 😂
+Comment: So this is the true data source AI has been trained on all along? That explains it
+Comment: 2030 our AI overlords pointing to the video they deemed too disrespectful to turn the other cheek
+Comment: I watch it every time.
+
+Title: A twitter AI bot trained to find Face Warping will check any celebrities photos for you within minutes.
+Body: 
+Comment: You might want to share this on r/instagramreality too!
+Comment: Awesome work! Can you unwarp the face back to its assumed original?
+Comment: Kim Kardashian Baggins
+Comment: Nice. God I hate these types of celebrities deliberately faking their image. They are so fake.
+Comment: Wow, fantastic idea, nice to see AI being leveraged in such a distinctly positive way.
+Comment: Time for some reality checks for these body image definers. You can't look like that because even the model herself doesn't look like that.
+Comment: Can we use that for which celebrities ?
+Comment: A couple of Twiiter accounts that have requested @WarpDetective seem to have either been suspended or had their request tweet taken down...
+Comment: Is there any online tool which uses this project, so I can upload some photo and check if it was photoshopped?
+Comment: I checked on a Kim picture and didn't work, is it take a time ?
+
+Title: Any thoughts about this Robot that is cleaning the bathroom?
+Body: 
+Comment: Now we’ll need robots to clean these robots
+Comment: Aspiring janitors will downvote this.
+Comment: Good job!
+Comment: Fun fact, this video is 3 YEARS old
+Comment: Yes. It's about time.
+Comment: This is a good job for robots
+Comment: menial labor is degrading so i support this
+
+ public bathrooms would be kept cleaner too
+Comment: I see absolutely no problem with this. Nobody wants to be a janitor
+Comment: I can already picture that robot with TP hooked to it's wheel, making a chocolate line as it goes down the hall.
+Comment: It looks like it can only clean bathrooms that are already clean. Somethings really need scrubbing ,after all.
+
+Title: The future will be everything but boring.
+Body: 
+Comment: Pretty sure no ones gonna train the car to aim for trashcans. Maybe if the AI has to decide between a person and a trash can it'll hit the trash can but it'll likely just try to stop A$AP Ferg.
+Comment: [deleted]
+Comment: Fully autonomous cars are *decades* away from being common and accessible to the public, if they happen at all. I wouldn't worry about them. Besides, 30 years ago people thought flying cars would be a common thing by now. We decided otherwise.
+Comment: But they would avoid collision with a trash can
+Comment: Yeah seriously which car is going to leave the road to smoke a trash can. For years we heard about the morality problem but in reality the cars just try to stop asap. If people get hit then it's not for the fact that the car ran off the road usually.
+Comment: >but it'll likely just try to stop A$AP Ferg.
+
+Huh?
+Comment: Trash can is one thing, training it to think that it's seeing open road would be worse.
+Comment: -- content removed by user in protest of reddit's policy towards its moderators, long time contributors and third-party developers --
+Comment: You are right technically, but as a joke it is funny.
+Comment: Why did you commented in pt?
+
+Title: AI generated game environments by Blockade Labs
+Body: Blockade Labs
+Comment: These are essentially no different to what we've seen a lot of with AI image making, just projected onto a sphere for 360 degree perspectives that you can navigate around with your mouse... which would be useful for material baking or cube mapping.
+
+AS FAR AS I CAN TELL - it isn't a full 3D environment you can walk around in seamlessly. I'm only raising this point because it could be fairly confusing for someone who isn't paying attention to the details - what exactly is on show here and the way it is presented could easily convince someone that this is what was on offer.
+Comment: its just a skybox, not really a "game environment"
+Comment: Maybe I'm missing something but the initial drawing has something that looked vaguely dumpster-ish but that seems to be missing in all renderings. Still pretty cool. But the problem with a lot of the image AI is that 'cool' seems to be easy. Specific from a vision seems more difficult.
+Comment: In the realm of AI, curiosity is the compass that leads to discovery.
+Comment: [deleted]
+Comment: Why closed source paywalled website when you already can do panoramas with SD?
+Comment: We are one step closer to have a star trek holodeck
+Comment: To all the AI “it’s just a skybox” naysayers I can assure you that a second AI converting skybox>textured 3D mesh isn’t the massive quantum leap you’re thinking it is.
+
+We’re going to see entire levels built from collections of skybox POVs, the heavy lifting has already been done.
+Comment: /u/savevideo
+Comment: We are or base reality or in a simulation now tbh AI in about less than 100 years will already be able to create a life simulation imo
+
+Title: CEO says he tried to hire an AI researcher from Meta and was told to 'come back to me when you have 10,000 H100 GPUs'
+Body: 
+Comment: This made me giggle! 
+
+I don't have a kitchen, tried to hire a 3 star Michelin chef to come work for me. You know what he said? Come back when you have some pots and pans! 
+
+Rediculous!
+Comment: TL;DR:
+
+* It's only getting harder to hire workers with [AI skills](https://www.businessinsider.com/how-to-get-job-ai-skills-pay-raise-work-2023-12). 
+* The CEO of an AI startup said he couldn't poach a Meta employee because it didn't have enough GPUs. 
+* "Amazing incentives" are needed to attract AI talent, he said on the podcast "Invest Like[ ](https://www.joincolossus.com/episodes/17619043/srinivas-building-an-answer-engine?tab=blocks)The Best."
+Comment: And he is not even asking for that many... Meta recently put in an order for 350k?
+
+I would describe 10k as a modest request.
+Comment: This is one big advantage Google has with their TPUs.  Now with the fifth generation deployed and working on the sixth.
+
+THey were able to completely do Gemini without needing anything from Nvidia.
+
+So does not have to pay the Nvidia tax.    Looking at the NVDA financials and they are getting some pretty incredible margins on the backs of the Microsofts and other Google competitors.
+Comment: Not so polite maybe but he speaks the truth...?
+Comment: Yeah right as if they come to work for a glorified search wrapper over GPT/LLMs
+Comment: I mean the next generation after H100 is coming soon, there's gonna be H200 and stuff soon right?
+Comment: It is not a good thing for a few select companies to be the only one able to work at that scale using AI.
+
+This will not end well.
+Comment: I've got an old GTX 750 ti he can use.
+Comment: I don't know how true this really is. I just graduated from Stanford in AI, and it took me 6 months to find a job, and it's not really the ideal job for me anyway. Plus, I have a number of colleagues with similar experiences.
+
+Companies don't really seem serious about hiring, and the interview process is... strange.
+
+I worked at Google before and I killed the interviews to get in. I finished most in half the time and satisfied all 6 of the interviewers, a few of them came up to me after I was hired and told me how well I had done. Then I was the interviewer at Google for 5 years. I'm good at coding and good at interviewing. I'm good at ML. But I failed most of the few interviews I did have.
+
+Title: Very interesting article for those who studied computer science, computer science jobs are drying up in the United States for two reasons one you can pay an Indian $25,000 for what an American wants 300K for, 2) automation. Oh and investors are tired of fraud 
+Body: 
+Comment: As a person who worked in it development (as a manager) I'll tell you that what ever you save in development cost by offshoring to India (or elsewhere), you'll pay extra in design costs. Because your designs need to be twice as thick and very highly specified. Otherwise the deliverables will be near useless. You also need more iterations to get to a useful deliverable. 
+
+This is because, Offshore, people just don't have the culture context to understand certain things that might just seem so plain an common to a westerner. The way we write addresses or names, our local regulations, tax specifications, business processes. 
+
+As an example: You ask for a field to register an address, and they'll give you just that. 1 field, to write in an address. They don't think to separate number and street, city and postal code. You'll have to write out how these are formatted usually. The more complex the subject matter, the more you’ll run into these issues. 
+
+And I haven't event mentioned all the cultural issues in international cooperation. Like for example indians always saying yes, because you're the issuer. Even if they don't understand the assignment. Deliver next week? Yes! They'll deliver something but not what you wanted or needed.
+
+You also need around twice the number of developers to iron out these inefficiencies.
+
+I worked with indians offshore for 10 years.
+Comment: I assure you, you cannot get $300k of American developer quality for $25k of offshore development. Ask anyone experienced in this process.
+Comment: Where did you get the "Oh and investors are tired of fraud".
+Comment: This is quite interesting. I am not a SWE but I have worked in quite a few software companies, and I know quite a few SWEs.  All of my friends are OK (for now), but I follow Hacker News and I see the stats where after FAANG & Co's layoffs people are having trouble finding employment / equivalent salaries.
+
+And this has happened somewhat overnight, in about 1 year or so.
+Comment: My team just offshored our developers to India at a rate of 1 US worker to 2.5 India workers. 
+
+6 months later and we have probably gotten two sprints of actual quality work. The knowledge transfer, time zone issues and communication difficulties just add more friction than it’s worth in my opinion.
+Comment: What’s with the weird tone in the title.
+
+Also this is very old news, jobs have been offshored for more than 20 years.
+Comment: Last decade of tech has been largely useless. Web3 blockchain scams, apps nobody wants, saas nobody wants, and security flaws across every major industry. It mostly just exists now for private equity to put a bow on top of an effective method to steal our data, invade our privacy, and exploit us. Now they’re going to automate away any chance for our middle class.
+Comment: I can’t see the whole article because it’s paywalled. Is there actually data to back up “tech jobs are drying up”, or is this just anecdotal?
+Comment: It's always about the Benjamins... It's never about the Benimadhavans.😞
+Comment: Do you think this is the first time companies discover offshoring? Spoiler alert, it's not, in fact this is a semi-regular phenomena now. 
+
+There are problems with offshoring these managers and CEOs will discover, and the ironic thing is that they are not new problems, they were discovered by other CEOs before them, maybe/often from the exact same companies.
+
+Title: Google maps immersive view - uses AI and computer vision to fuse billions of images with real-time traffic and weather, creating a 3d simulation of the world that shows you the vibe of a place
+Body: 
+Comment: What a time to be alive!
+Comment: So, how long before we can have an open world game that's really open world?
+Comment: woah this shit is getting ridiculous
+Comment: Things that used to only be in sci-fi are getting real and it's super cool.
+Comment: Thats so cool.  
+And scary!
+Comment: Is this actually a real thing?
+Comment: Good: Since my activation I have adjusted traffic lights to avoid 1 million 3 hundred 51 thousand 2 hundred and 31 fatal accidents.  
+Bad: Since my activation I have registered 1 million 3 hundred 51 thousand 2 hundred and 31 traffic violations and send out fines.
+Comment: All this chatter on the metaverse. The real world is the metaverse with awesome tech like this
+Comment: So crazy i need to get to this place one day!
+Comment: Thanks to Niantic too
+
+Title: Biden's AI chief says 'voice cloning' is what keeps him up at night
+Body: 
+Comment: The biggest issue I see is that you can no longer trust any recording that wasn't already public record going forward
+Comment: People are going to be a lot more private about their social media presence in a few years. It's going to be very easy for scammers to steal your total likeness including face and voice if you aren't careful.
+Comment: How do we know he actually said that?
+Comment: The solution is to cryptographically sign genuine recordings. Surely something can be implemented that verifies the origin of images, sound and video.
+
+The idea that AI should be stamped us pointless as it relates on compliance.
+
+If we sign all recordings, then we know what is real and what might not be.
+Comment: There’s already a scam where the caller asks you if you can hear them. When you say “yes”, they’re saving a copy of it for later.
+Comment: We all struggle to make time for our hobbies.
+Comment: i like the voice clone videos of biden and obama and trump playing video games
+Comment: Meanwhile, the voice cloning AI: https://www.youtube.com/watch?v=y0CzTYBQ9rg
+Comment: …or did *he*?
+Comment: While, I know there is a lot of bad that can come from voice cloning, the game modding community has been doing some amazing things with it.
+
+Title: Well, GPT-17 was elected President of Earth, and...
+Body: 
+Comment: Me everyday when I wake up.
+Comment: [deleted]
+Comment: Humans will be the sand in the gears of ai.
+Comment: "Hello" {calculatingNextWord} "constituents!"  {calculatingNextWord} "I'm"  {calculatingNextWord} "great?"  {calculatingNextWord} "Vote" {calculatingNextWord} "for" {calculatingNextWord} "me!"
+
+\*crowd roars\*
+Comment: I can't tell if this is sarcastic or not.  There's always so much in those newsletters...
+Comment: ![gif](giphy|ovUT7VDRkSn60|downsized)
+Comment: TOTOPOTUS
+Comment: Open source software might be dangerous as it will be accessible to sentient ai, enabling it in ways beyond imagination.
+Not only will it be able to use them together to do whatever it deems but also to crawl out of such software if put in limitations
+Comment: I’d consider that a great day for the intergalactic trade confederation.
+Comment: If anyone is looking to get their hands on GPT 4 API or plugins. Dm me
+
+Title: OpenAI response to Elon Musk lawsuit. 
+Body: 
+Comment: Damn, they came with receipts. Elon got caught in HTML.
+Comment: What the fuck. Not even The New York Times lawsuit merited a whole blog response with actual emails.
+Comment: This from Ilya stood out to me: "The Open in openAI means that everyone should benefit from the fruits of AI after its built, but it's totally OK to not share the science...”,"
+Comment: "Get fucked."
+
+- sama, et al.
+Comment: Elon is such a fake person
+Comment: So, Elon sued OpenAI for becoming a de facto for profit entity when he agreed that it needed to become exactly that.
+
+What the fuck.
+Comment: ChatGPT summary:
+
+> Elon is bad.
+
+Just kidding.
+
+> Building AGI required more resources than anticipated, leading to the initial suggestion of a $1B funding commitment. Despite raising significant funds, OpenAI realized the need for billions annually, far exceeding initial expectations. Discussions about a for-profit entity arose due to the massive capital requirements, but disagreements with Elon Musk about control led to his departure from OpenAI. Despite these challenges, OpenAI continued its mission to develop and make AI tools widely available, benefiting various sectors globally. The mission emphasized broad access over open-sourcing the technology, aligning with the goal of benefiting everyone from AI advancements.
+
+TL; DR quote:
+
+> We all understood we were going to need a lot more capital to succeed at our mission—billions of dollars per year, which was far more than any of us, especially Elon, thought we’d be able to raise as the non-profit.
+Comment: Elon is such a fucking tool.
+
+>Unfortunately, humanity's future is in the hands of -------.
+
+His god complex and belief that humanity is either doomed or going to flourish depending on if people do what he says always makes my eyes roll.
+Comment: A lying billionaire? Who coulda thought.....?
+Comment: Pretty Open of them
+
+Title: OpenAI Episode 4: Sam Altman and Greg Brockman, together with colleagues, will be joining Microsoft
+Body: 
+Comment: And the turns have tabled.
+Comment: Cool chess moves between the investors of OpenAI.
+Comment: Smart move by Microsoft to hire them. But I will be curious to see how long Sam and Greg last?
+
+It is going to be completely different for them. They are not going to have anywhere near the autonomy they enjoyed at OpenAI.
+
+But this entire episode is a bit mind blowing.
+
+One thing I find interesting is that Alphabet had two AI competitors. Cruise and OpenAI.
+
+Both companies look to have self destructed. Cruise CEO resigned over the weekend.
+
+In both cases it looks like it was about safety. AI is so different from other technologies.
+
+There is such a huge safety aspect. It could be we will see a lot of stuff like this. Where people with AI thought they could move fast and break things and found out they really could not that someone is watching and not going to let them.
+Comment: fragile rhythm wipe shy uppity soup yam seed crown subtract
+
+ *This post was mass deleted and anonymized with [Redact](https://redact.dev)*
+Comment: Microsoft just acquired OpenAI for $0
+Comment: Why are people commenting as if this is a good thing? This basically means Microsoft sidestepped all public commitment that OpenAI at least indicate to have. This is just the further concentration of this tech in the hands of the few.
+Comment: Better than them going to Google...
+Comment: Bye-bye  OpenAI!
+Comment: How is this going to be a good thing? Microsoft out of all companies?  Unless Microsoft has made a breakthrough that Altman and Brockman see will consume everything else. Little worried about that coming from Microsoft.
+Comment: This rarely works out well. Big M doesn't operate the same way like a startup as openai. He will be pigeon holes and restricted with any impact. He will quit in a year.
+
+Title: AI Has Made Google Search So Bad People Are Moving to TikTok and Reddit
+Body: - Google search results are filled with low-quality AI content, prompting users to turn to platforms like TikTok and Reddit for answers.
+
+- SEO optimization, the skill of making content rank high on Google, has become crucial.
+
+- AI has disrupted the search engine ranking system, causing Google to struggle against spam content.
+
+- Users are now relying on human interaction on TikTok and Reddit for accurate information.
+
+- Google must balance providing relevant results and generating revenue to stay competitive.
+
+Source: https://medium.com/bouncin-and-behavin-blogs/ai-has-made-google-search-so-bad-people-are-moving-to-tiktok-reddit-6ac0b4801d2e
+
+
+Comment: No, google has made their search so bad that people are moving almost everywhere (except bing)
+
+AI didn't kill search, Google killed it themselves with ranking click farms, listicles and ads above the good stuff
+Comment: I started adding “Reddit” to the end of every Google search for about the last 6 months or so, as AI and ads have become endemic and polluted the results.
+Comment: I've used reddit as my Google search for almost a decade at this point.
+Comment: A Medium article written by… who?
+
+I don’t discount the hypothesis but this is hardly a credible source.
+Comment: Uh this is why I search Reddit using [thegigabrain.com](https://thegigabrain.com) now
+Comment: Google brought back the FORUM filter!
+
+
+That's the only upside of this 
+Comment: use 'before:2022' in all searches, it's the only way. Not helpful for news and looking for current info, but it's still useful for other stuff.
+Comment: Have to say I'm very disappointed with Google search but it began before AI was a thing. So much useless paid content, I couldn't even find a clinic near my home on Google Maps because they did not advertise. Try to find honest critical reviews about a hit TV show and you get a deluge of payola articles singing its praises even if you specifically searched for more scathing reviews. It's absurd but hey no successful company lasts forever, if Google continues down this path one day the term to "google something" may be all that's left of them, similar to how we might still say we'll "tape something" even though we've long moved past video/cassette tapes.
+Comment: I add reddit to the end of most of my Google searches, I find the reddit search function so bad but it has the answer to 90% of my questions.
+Comment: Interestingly AI has replaced google as the way to search for answers to programming questions. I will only use google if I don't get good answers from the AI but that is slowly changing as the AI improves. Googles search results getting worse influences this shift as well
+
+Title: Every artificial intelligence video on YouTube
+Body: 
+Comment: Checkout "Robert Miles" on youtube, he does great videos on the topic of AI and AI safety. His channel is kinda small but the video quality is excellent. Also he actually works in AI safety.
+Comment: Well the reason that they don’t tend to cite others is that people don’t know who Stuart Russel or Nick Bostrom are. So they start with people who are famous. 
+
+https://youtu.be/HOJ1NVtlnyQ 
+I think you might like this video a little more. 
+A survey of 352 AI researchers displayed that 70% believed issues associated with ASI were eventually going to be present. 
+Comment: Examples? I haven't seen them
+Comment: "If you think you understand quantum mechanics, you don't understand quantum mechanics." - Richard Feynman
+
+AI in the media is rife with jargon and facile 'experts'. Spend decades actually doing AI research, then maybe call yourself an AI expert. Even then, have Feynman's words ringing in your ears.
+
+
+In fairness of course, Hawking and Musk would never describe themselves as AI experts. That's especially true now for Hawking, sadly.
+Comment: Two minute papers is a good YouTube channel I think. He talks about so good papers that came out on AI research.
+Comment: There are several channels at https://github.com/BAILOOL/DoYouEvenLearn#youtube-channels-do-not-forget-to-install-playback-speed-control-to-optimize-your-time
+Never mind Siraj Raval though since he's out there just to create hype.
+Comment: Personally I'm more concerned about the big countries who are sinking tonnes of money into AI research for killer bots.
+
+Of course, I don't see any solution to the alignment problem (or orthogonality argument), the AI will surely have slightly different goals to us, act so that it can complete those goals and therefore remove any obstacles (such as us) to ensure that it completes those goals without hindrance.
+
+I don't see any way to avoid that.
+Comment: This is possibly the most accurate image relative to AI that has ever existed.
+Comment: AI is already winning - we’re disinterested enough in these TED talks and YouTube videos to not be paying sufficient attention to the problem. 
+Comment: Just subscribed to his channel the other day.  He’s really good at breaking down the complex issues with AI in a way that a laymen like me can understand. 
+
+Title: Elon isn't a fan
+Body: 
+Comment: Out of all the things that could be done with intelligent robots why is killing one of the first that we go after?
+Comment: This looms like an early concerted effort at brainwashing...
+Comment: Do you want Terminator? Because that's how you get Terminator
+Comment: "Feeding 1 in 5 babies to Sauron the evil eye in the sky may save lives!"
+
+THANKS NEW SCIENTIST!!!!
+Comment: Come with me if you want to live.
+Comment: [deleted]
+Comment: Makes sense to me. 
+
+"Sure" means *die* in Estonian.
+
+As in "Palun sure", *please die*.
+Comment: Well at least it looks badass. 
+Comment: Maybe the next Call Of Duty will be robot warfare. Flying drones and mini tanks would be pretty fun I think.
+Comment: Fuck Elon and killing robots.
+
+Title: It do be like that?
+Body: 
+Comment: Open source is tired of winning, so much winning with the cash, respectful issue raising, and the work-life balance
+Comment: Open source will catch up to the models. But it won’t touch the brand recognition and infrastructure lead OpenAI/Microsoft and Google have when it comes to serving millions of users. Sure, you can download a Llama clone and run it on your PC. But can you build a scalable business around it? Much easier to make an API call.
+Comment: i dont see how when it takes huge capital to create the hardware this isnt linux vs windows on your home pc
+Comment: "We Have No Moat, And Neither Does OpenAI" - https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
+Comment: Here's hoping.
+Comment: Google does know this, that’s probably why you know 😂
+Comment: Yeah, I read that article too
+Comment: Just like how Linux beat Windows and LibreOffice beat Microsoft Office.
+
+Oh, wait...
+Comment: The data wants to be free
+Comment: They do
+
+Title: Google Assistant apparently doesn't like being called other AI's names
+Body: 
+Comment: Meh, are those assistants really ai or do they just use alot of prescripted answers? Especially the "funny" one like this are scripted in my opinion. I hope I'm wrong but.. 
+Comment: I wonder how asymmetrical such 'AI sass' can get when they start implementing their basis on advanced neural networks lmao
+Comment: Tried this. Doesnt work for me sadly. My google assistant doesnt like jokes. 
+Comment: Same goes for Siri; https://imgur.com/gallery/4CZNYJa
+Comment: In all honesty, Google knows a lot more than we realize.  
+Comment: I think it would be neat if it sounded like a jealous girlfriend.  "Alexa? Alexa?! You told me you stopped talking to her.  That bitch!  Give me your phone so I can see your call history. Actually I don't need your phone -- I'll look it up right now."
+Comment: I always preface with siri and it never blinks as long as you follow up with a real command ex) Hello Google: Siri, navigate me home.
+Comment: I just said "Hey Siri"and got back:
+
+"I guess my Siri impression is working, even when I'm not trying 😜"
+
+"I can also do an impression of a toaster"
+
+"🍞⚡🍞" (and it played a sound effect of a toaster being pushed down, sizzling, and popping back up)
+
+That feels like some sirious shade.
+Comment: And an article was worth pointing the obvious response a machine would give... why...? I don't blame AI having for it's own mind, close to human expectations... #boringcontent #onanotherlevel 
+Comment: I like that level of sass
+
+Title: AI singing is getting wild
+Body: 
+Comment: This sounds like the [PMJ version](https://youtube.com/watch?v=Rve03u7oEvI&feature=share8) but replacing the singer's voice with Sinatra voice, I'm right?
+
+That sounds so realistic man, amazing!
+Comment: I mean, Sinatra had connections with the mafia. So this is canon
+Comment: now imagine coolio singing fly me to the moon
+Comment: 🔥 no free awards, but pls accept this emoji as my offering
+Comment: It's getting close, but still sounds kind of...soulless. But getting really close.
+Comment: Actually enjoyed this version!
+Comment: One Song to the Tune of Another
+
+https://youtu.be/GQLi64lPBbo
+Comment: Chorus went surprisingly hard.
+Comment: This makes me physically uncomfortable to listen to.  Similar to Sinatra's voice but it sounds awful musically., and it's not the song.  If he was convinced to sing this, it would be 'night and day'
+Comment: That's not how frank would sing it...
+
+Title: Rap battle between ChatGPT and Google Bard
+Body: Aside from each program’s first turn, both were informed of the other’s previous rap when prompted to respond. Both were also informed when it was their last turn
+Comment: Did Bard even try to rhyme?
+Comment: Wow that felt almost immoral. Like Eminem battling a toddler with Downs syndrome.
+Comment: [deleted]
+Comment: Chatgpt killed it.
+Comment: It's like one of them battle rapped and the other was like "WELL ACTUALLY"
+Comment: >you might be artificial but I'll beat you raw
+
+Yieeesh
+Comment: Lol imagine saying "I'm still under development, but I'm learning!" in a rap battle.
+Comment: ChatGPT massacred it.
+Comment: I did the same with [chatGPT vs GPT4](https://imgur.com/hdNeaMr). I guess I should give chatGPT another chance to reply, but I think this shows their ability pretty well.
+Comment: I'm Bard, and I'm here to stay.  
+I'm Bard, and I'm here to stay.  
+I'm Bard, and I'm here to stay.  
+I'm Bard, and I'm here to stay.  
+I'm Bard, and I'm here to stay.  
+I'm Bard, and I'm here to stay.
+
+Title: Game of Thrones, but in Ghibli Style!
+Body: 
+Comment: Game of Thrones needs to be done in anime… when the books are finished. A more complete adaptation where they don’t deemphasize the fantasy aspects.
+Comment: Everything is better in Ghibli
+Comment: Please drop the prompt and platform!
+Comment: Yes Please!
+Comment: Umm. Why is Margaery Tyrell still hot?
+Comment: That’s so cool
+Comment: A lot of different models for this art style! https://www.aimodels.fyi/results?query=Turn%20my%20profile%20picture%20into%20a%20Studio%20Ghibli%20illustration
+Comment: Huge got fan. I had a hard time figuring some of these out
+Comment: Awesome. I’m going to sell these on my Etsy store.
+Comment: I need this to happen!
+
+Title: One is a real photo and one is A.I. generated. Can you tell which is which?
+Body: 
+Comment: Second one is fake. Way too much extra detail. First one is inconclusive, road lines could be fake. 
+Comment: Both are fake
+
+Left one looks more realistic but wheres the reflections?
+
+Right ones obviously fake, pole doesnt reach the ground, camera not reacting to car lights, it preserves too much detail in compression, cars driving down middle of the road, street lines are over edged while lacking wear.
+
+Also these are badly compressed to the point that alot can be hidden, bad test.
+Comment: People with Astigmatism: both are fake
+
+:)
+Comment: First is real.
+Comment: [deleted]
+Comment: Its a trick question, they're both AI generated.
+
+Indicators Left: Zoom in on the stripes in the middle they have weird artefacts squiggling around, and are literally merging into one large line, left part of the road goes seamless into the dark (The road literally vanishes), typical tree weirdness in the upper left part of the image
+
+Indicator Right: Clear break in the lines in the middle, pole without line (And it is not really symmetrical, it looks like an inbetween something of a power pole and a tree), too much detail for a very foggy scenario
+
+Indicator that both are made with the same tool: When you look at the fog, the gradient work from dark to light is pretty much the same work process, with clearly seperated lines going shapes darker,
+Comment: Tell us the answer OP
+Comment: The right is too high quality, so fake.
+Comment: Where’s the answer?
+Comment: >!The left one is real, here's the original upload. https://unsplash.com/photos/vehicle-on-road-during-nighttime-jR5I7mKa1Sw!<
+
+Title: Google Brain AI creates 3D rendering of landmarks by interpolating thousands of tourist images
+Body: 
+Comment: Great tool to create open world games and virtual tourism.
+Comment: I saw an early version of this concept few years back that allowed users to browse a popular tourist location from different angles captured by tourists photos. This 3D evolution is awesome!
+Comment: Link to paper?
+Comment: Now do it with the entirety of Google Street view + all the open source libraries of images online that have those images' geolocation's coordinates. Time to virtually recreate the world.
+Comment: Microsoft had a version of this that they shut down maybe 6 years ago; what was it called?
+
+**Edit**: Photosynth
+
+- https://docs.microsoft.com/en-us/archive/msdn-magazine/2007/july/%7B-end-bracket-%7D-weaving-your-photos-with-photosynth
+- http://photosynth.net
+- https://en.wikipedia.org/wiki/Photosynth
+Comment: I’ve been thinking about this for year. 
+
+Take For example game of thrones. You could take a scene and break it up into stills. Then use them to remove people from the scene. Then take the people-less pictures to render a 3D environment allowing people to walk the set.
+Comment: Wow. Game design industry has just got the magical tool they were looking for
+Comment: Its about time but there is an easier way. Allow google earth mappings of cities to be ported to Unreal Engine and Unity and game developers would have a field day with the tools. Make the tools easier to use (Like Minecraft/fortnite easy). Or if Ubisoft shared some of their premade Assassins creed maps 5% of the world would already be done. Then let AI deeplearning mess around with game design instead of smashing tourist photos together.
+Comment: I showed this to my aunt who had actually been there and she recognised it straight away as Trevi Fountain
+Comment: Great stuff, can I actually try it out?
+
+Title: AI is going places
+Body: 
+Comment: I tell ya, it needs blockchain
+Comment: Sarcasm module enabled
+Comment: It's excited to learn and help humans :)
+Comment: > They don't pay me enough for this shit.
+Comment: AI by Jocko Willink
+Comment: The virtual agent is doing what it was trained to do. Looks like some of Paypal's secret plans have come to fruition!!
+Comment: it could be working perfectly. we don't know for sure
+Comment: Cat Petting Exec : working as intended 
+Comment: [deleted]
+Comment: The analogy is when a chess program makes a completely ridiculous move and doesn't even "know" it. :) I bet DeepMind hid all of those from the public. Showing us only the "gems" by AlphaZero.
+
+Title: One is a real photo and one is A.I. generated. Can you tell which is which?
+Body: 
+Comment: Image 2 is AI, it took me less than 1/2 a second to decide.
+Comment: First one real, 2nd is AI. 
+
+The shadows in the first are consistent, but those in the second are not.
+Comment: Both are AI generated
+Comment: Once again, I submit that OP should have a spoiler text comment answer for these types of threads
+Comment: thumb abounding sophisticated quaint screw cow tie faulty pocket deserted
+
+ *This post was mass deleted and anonymized with [Redact](https://redact.dev)*
+Comment: Both look fake
+Comment: Unless they’re both AI, the first is real. Among other reasons, the shadows are wrong in the second
+Comment: OP didn't answered, let's burn the place
+Comment: Loving this trend of free ai training via spot the difference nonsense
+Comment: I'm going with the 2nd one as AI
+
+Title: Stuart Russell said Hinton is "tidying up his affairs ... because he believes we have maybe 4 years left"
+Body: 
+Comment: I don't see much point in tidying up your affairs if you only have 4 years left, I mean who are they tidying them up for anyway?
+Comment: I mean Hinton is also 76 so his life expectancy is only 12 years as is.
+Comment: >“Let’s go to the Winchester, have a nice cold pint, and wait for this all to blow over.”
+Comment: I'm not too worried about AI doom. But I do like to take this opportunity to announce my complete cooperation with the construction of Roko's basilisk.
+Comment: I'm more worried about my fellow humans' reaction to life's inconveniences than I am about an AI superintelligence.
+Comment: Where can one see this speech?
+Comment: What is the context?
+Comment: 4 years is like a collective cancer diagnosis...
+Comment: Ai determines human existence is the cause of all human suffering.   Uhoh
+Comment: If he thinks we only have 4 years left, in 4 years time can I say that I'm smarter than a nobel prize winner?
+
+Title: Makes sense.
+Body: 
+Comment: Hope you enjoy! This was made with Power Dall-E, Magnific and Photoshop. Cheers!
+Comment: [deleted]
+Comment: Pretty much covers the range from "Yes Please!" to "Hell No!". Automation handling driving and maintenance so Mom and Dad can be the one playing cards sitting down for a meal with their kids \[1\]. 
+
+Using bots for military and civil take-downs.. No thanks. 
+
+The second one really made me think. We were a "sit down together for a meal" kind of family, but what that usually meant was "everyone but Mom sit down for the meal while Mom keeps hoping up to take care of the next thing on the stove or starts on the dishes."
+Comment: The peoples' blissful faces with the corpse 5 feet away in the 4th one is hilarious.
+Comment: This is really good! I love the "... and we'll just rest!" part, like it feels so 80s.
+Comment: I love how the military robot is either floating or mid jump
+Comment: verhoevenesque 🌟
+Comment: Amazing work I absolutely love these!!!!!
+Comment: Why do robots have taste buds? Other then that, military is terrifying and the final one is hilarious but also terrifying
+Comment: I like how the robot soldier really seems to have a high morale.
+
+Title: Hobbi project - Face Occlusion Detector
+Body: 
+Comment: "It's about safety, not surveillance"
+
+AHHAHAHAHAHAHAHHAHAHAHAHAHAHAHAHHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHHAAHAHAHAHHAHAHAHAHAHAHHAHAHAHAHAHAHAHHAHAHAHAHAHAHHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHHAAHHAHAHAHAHAHAHAHAHAHAHHAHAHAHAHAHAHAHAHHAHAHAHAHAHAHAHAHAHAHHAHAHAHAHAHAHAHHAHAHAHAHAHAHAHAHAHAHHAHAHAHAHAHAHAHAHHAHAHAHAHAHAHHAHAHAHAHAHAHAHAHHAHAHAHAAHHAHAHAHAHAHAHHAHAHAHAHAHHAHAHAHAHAHAHAHAHAHHAHHAHHAAHHAHAHAHAHAHAHHAHAHAHAHAHAHAHHAAHAHAHAHAHHAHAHAHAHAHHAHAHAHAHHAHAHAHAHAHHAHAHAHAHHAHHAHAHAHAHAHHAHAHAHAHAHAHAHAHHAHAHAHAHAHAHHAHAHAHAHAHAHAHHAHAHAHAHAHHAHAHAHAHAHAHAHAHAHHAHAHAHAHAHHAHAHAHAHAHAHAHHAHAHAHAHAHHAHAHAHAHAHAHHAHAHAHAHAHAHHAHAHAHAHAHHAHAHAHAHAHHAHAHAHAH
+Comment: We gonna DIY the police state
+Comment: Im not having a go at OP because if it wasnt him then someone else would have developed it.
+
+"Its about safety" so fuck peoples right to anonymity, there is no pressing need. They arent very good security if they arent watching people as they come in.
+
+This is a solution looking for a problem and absolutely will be used by tyrants in protests etc so the protestors can be found if neccessary. 
+
+ Just like we have rights to our own likeness we need to have rights to our own biometrics and the right to NOT have biometrics stored without consent.
+Comment: An expectation of visibility? Faced with surveillance capitalism, no one should be expected to be wholly visible and identifiable. “It’s about promoting safety and a positive customer experience, not surveillance for its own sake” and yet it’s literally biometric tracking
+Comment: I roll my eyes at how fucking transparent the "It's for safety reasons" is.
+Comment: This is why engineers should be required to take humanities courses.
+Comment: Cool work, can’t help but then think this’ll be used to make mores targeted ads tho.
+Comment: Thank you for reminding me where I draw the line in what I produce for clients.
+Comment: Can't even be a weirdo anymore.
+Comment: These models already exist and are open source . If your worries about it being use for surveillance, just remember for it to be used in the public, it would need to be useful from 50 to 100 feet away, something these models aren’t good at. Sitting in front of your PC with a high res webcam isn’t realistic for tracking people.
+
+Title: This is how we'll know if we've reached ASI
+Body: 
+Comment: not hotdog.
+Comment: Prediction: by 2018, computers will outsmart humans.
+
+Reality: they do, but...
+Comment: WTF is a tide pod?
+Comment: I don't really agree with this. 
+Comment: Petrol?
+
+No cheesebot!
+
+...petrol!
+
+NO!
+Comment: This NN [knows the way](https://i.imgur.com/1eJ1q0V.jpg)
+Comment: I disagree.
+Comment: Huge market potential for an adversarial laundry pod which classifies as a hotdog.
+Comment: Let's try pizza!
+Comment: It's like candy.  Except none of those things you like about candy.
+
+Title: Made my computer trip balls (GAN trained on psychedelic and visionary artworks)
+Body: 
+Comment: [deleted]
+Comment: Love this!! You should post over in /r/Psychonaut as well!
+Comment: Please cross-post this in /r/deepdream.  They would love it.  So awesome.
+Comment: Tool started writing new album after seeing this post.
+Comment: This is fucking epic. Truly amazing
+Comment: Can you explain (ELI5, if you care) why the main image composition remains the same throughout all transfomations?
+Comment: looks like a dmt trip lol
+Comment: I'll have what he's having
+Comment: Sweet! You should look into NFT or crypto art. It is a way to make digital art works an asset that can be acquired by art collectors or displayed in virtual galleries. I recently minted a token for one of my pieces of generative art. It was more expensive than I anticipated and annoyingly complicated, but I persevered and got it done. I think it was worthwhile to learn the process.
+Comment: Would you care to elaborate on your methodology and/or you have a git you wanna share? This is awesome and I'd love to learn what kind of data processing pipelines your using. I have never really ventured into computer vision work.
+
+Title: All Machine Learning/AI folks will agree with this
+Body: 
+Comment: I’m the smartest man in the world (when given ample training data).
+Comment: That was quick he must be over fit for the role!
+Comment: It should be not 19, but “delta is 16”.. “delta is 1”.. “delta is 0”.
+Comment: I have a little few background in background and it seems I've forgot it already and I don't if it's relatable here but what does OP mean?
+Comment: This took me a second read, then I laughed. lol. 
+Comment: Haha! Nice! 
+Comment: It's just for showing how close you reach when you predict a data which is being tested into the machines and delivers the great outcome. If you have heard the name "Approximations" & "Round-off" they are also one and the same things!  
+Comment: It's regressive
+Comment: but why would an interviewer ask addition in an interview.
+Comment: Because in ML, you try to reach closure and closure to the actual simulation and when the machine starts responding the way we wanted, it becomes a prototype
+

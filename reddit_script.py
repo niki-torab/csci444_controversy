@@ -28,7 +28,7 @@ analyzer = SentimentIntensityAnalyzer()
 subreddit = reddit.subreddit('artificial')
 organized_data = []
 
-for submission in subreddit.top(limit=50):  # Adjusted to fetch 50 posts
+for submission in subreddit.top(limit=50):
     submission.comments.replace_more(limit=0)
     comments = [comment.body for comment in submission.comments.list()[:10]]
     full_text = f"{submission.title} {submission.selftext} {' '.join(comments)}"
@@ -50,18 +50,19 @@ for post in organized_data:
 dictionary = corpora.Dictionary(processed_posts)
 corpus = [dictionary.doc2bow(post) for post in processed_posts]
 
-lda_model = models.LdaModel(corpus, num_topics=6, id2word=dictionary, passes=10)
+lda_model = models.LdaModel(corpus, num_topics=7, id2word=dictionary, passes=10)
 
 print("\nTopics:")
 for idx, topic in lda_model.print_topics(num_words=5):
     print(f"Topic {idx + 1}: {topic}")
 
-topic_posts = {i: [] for i in range(6)}
+topic_posts = {i: [] for i in range(7)}
 for i, bow in enumerate(corpus):
     topic_probabilities = lda_model[bow]
     top_3_topics = sorted(topic_probabilities, key=lambda x: x[1], reverse=True)[:3]
     for topic_id, _ in top_3_topics:
-        topic_posts[topic_id].append(organized_data[i])
+        if organized_data[i] not in topic_posts[topic_id]:
+            topic_posts[topic_id].append(organized_data[i])
 
 print("\nPosts categorized by top 3 topics:")
 for topic, posts in topic_posts.items():
